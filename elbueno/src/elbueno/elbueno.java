@@ -13,6 +13,8 @@ public class elbueno {
 		System.out.println("Si no funcionas te pego una paliza");
 		
 		System.out.println("Ultimo");
+		
+		System.out.println("Conflicto");
 
 	}
 
