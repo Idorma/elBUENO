@@ -15,6 +15,10 @@ public class elbueno {
 		System.out.println("Ultimo");
 		
 		System.out.println("Conflicto");
+		
+		System.out.println("Ultimo2");
+		
+		System.out.println("Porfa");
 
 	}
 
